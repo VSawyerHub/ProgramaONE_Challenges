@@ -1,9 +1,8 @@
 #Java Backend Projects
+
 ## Currency Converter
 ## Book Catalogue
 ## Forum
-
-
 
 <p align="center">
 <img src="https://github.com/VSawyerHub/CurrencyConverter/blob/master/Badge-Conversor.png"/>
