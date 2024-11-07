@@ -1,13 +1,13 @@
-#Java Backend Projects
+# Java Backend Projects
 
 ## Currency Converter
 ## Book Catalogue
 ## Forum
 
 <p align="center">
-<img src="https://github.com/VSawyerHub/ProgramaONE_Challenges/blob/master/Currency%20Converter/Badge-Conversor.png"/>
-<img src="https://github.com/VSawyerHub/ProgramaONE_Challenges/blob/master/ForoHub/Badge-Spring.png"/>
-<img src="https://github.com/VSawyerHub/ProgramaONE_Challenges/blob/master/LiterAlura/badge%20literalura.png"/>
+<img width="460" height="300" src="https://github.com/VSawyerHub/ProgramaONE_Challenges/blob/master/Currency%20Converter/Badge-Conversor.png/460/300">
+<img width="460" height="300" src="https://github.com/VSawyerHub/ProgramaONE_Challenges/blob/master/ForoHub/Badge-Spring.png460/300">
+<img width="460" height="300" src="https://github.com/VSawyerHub/ProgramaONE_Challenges/blob/master/LiterAlura/badge%20literalura.png460/300">
 </p>
 
 ## Features
