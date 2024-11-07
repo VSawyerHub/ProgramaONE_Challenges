@@ -5,9 +5,9 @@
 ## Forum
 
 <p align="center">
-<img src="https://github.com/VSawyerHub/ProgramaONE_Challenges/blob/master/Currency%20Converter/Badge-Conversor.png" width="330" height="410" />
-<img src="https://github.com/VSawyerHub/ProgramaONE_Challenges/blob/master/ForoHub/Badge-Spring.png" width="330" height="410" />
-<img src="https://github.com/VSawyerHub/ProgramaONE_Challenges/blob/master/LiterAlura/badge%20literalura.png" width="330" height="410" />
+<img src="https://github.com/VSawyerHub/ProgramaONE_Challenges/blob/master/Currency%20Converter/Badge-Conversor.png" width="380" height="410" />
+<img src="https://github.com/VSawyerHub/ProgramaONE_Challenges/blob/master/ForoHub/Badge-Spring.png" width="380" height="410" />
+<img src="https://github.com/VSawyerHub/ProgramaONE_Challenges/blob/master/LiterAlura/badge%20literalura.png" width="380" height="410" />
 </p>
 
 ## Features
