@@ -5,7 +5,9 @@
 ## Forum
 
 <p align="center">
-<img src="https://github.com/VSawyerHub/CurrencyConverter/blob/master/Badge-Conversor.png"/>
+<img src="https://github.com/VSawyerHub/ProgramaONE_Challenges/blob/master/Currency%20Converter/Badge-Conversor.png"/>
+<img src="https://github.com/VSawyerHub/ProgramaONE_Challenges/blob/master/ForoHub/Badge-Spring.png"/>
+<img src="https://github.com/VSawyerHub/ProgramaONE_Challenges/blob/master/LiterAlura/badge%20literalura.png"/>
 </p>
 
 ## Features
