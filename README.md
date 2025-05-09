@@ -52,7 +52,9 @@ To run the project, we have two options:
 Open the project with `IntelliJ IDEA` IDE and run the method below in the `CurrencyConverterApplication` class:
 
 ```java
-public static void main(String[] args)
+public static void main(String[] args) {
+    SpringApplication.run(CurrencyConverterApplication.class, args);
+}
 ```
 
 ### 2nd Option
