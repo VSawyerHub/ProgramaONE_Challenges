@@ -11,18 +11,6 @@ For the Hub Forum to work correctly, you need to install the dependencies below.
 - [`MySQL`](https://dev.mysql.com/downloads/installer/): Database used by the Hub Forum
 - [`Maven`](https://maven.apache.org/install.html): Dependency manager used by the Hub Forum
 
-## ⚙️ Settings
-Before running the project, we must configure some environment variables on our machine.
-
-Below are listed the variables that must be created and the content that each one must contain:
-|Variable|Content|Example|
-|---|---|---|
-|`DB_FORUMHUB_API_HOST`|Database host. The address to access it along with the port|127.0.0.1:3306|
-|`DB_FORUMHUB_API_DATABASE`|Informs the name of the database that the Forum Hub will persist|forum_hub|
-|`DB_FORUMHUB_API_USER`|Informs the username to connect to the database|root|
-|`DB_FORUMHUB_API_PASSWORD`|Informs the password of the user defined in the previous variable|10203040|
-|`JWT_FORUMHUB_API_SECRET`|Informs the secret key used to sign and verify the authenticity of JWT tokens. It must be a random and secret number.|91723847|
-
 ## 🚀 Usage
 To run the project, we have two options:
 
