@@ -11,7 +11,7 @@ Unlike previous projects in the Oracle ONE program that consumed external APIs, 
 ## 📌 Dependencies
 
 For the proper functioning of the Currency Converter API, it is necessary to install the dependencies below. Click on the hyperlink for each one to go to the respective download page.
-- [`MySQL`](https://dev.mysql.com/downloads/installer/): Database used by the Currency Converter API
+- [`Java`](https://www.oracle.com/java/technologies/downloads/): For running applications on desktops or laptops
 - [`Maven`](https://maven.apache.org/install.html): Dependency manager used by the Currency Converter API
 
 ## 🚀 Usage
