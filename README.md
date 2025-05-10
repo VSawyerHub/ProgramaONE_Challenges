@@ -14,20 +14,6 @@ For the proper functioning of the Currency Converter API, it is necessary to ins
 - [`MySQL`](https://dev.mysql.com/downloads/installer/): Database used by the Currency Converter API
 - [`Maven`](https://maven.apache.org/install.html): Dependency manager used by the Currency Converter API
 
-## ⚙️ Configuration
-
-Before running the project, we need to configure some environment variables on our machine.
-
-Below are listed the variables that should be created and the content that each one should contain:
-| Variable | Content | Example |
-| --- | --- | --- |
-| `DB_CURRENCY_API_HOST` | Database host. The address to access it along with the port | 127.0.0.1:3306 |
-| `DB_CURRENCY_API_DATABASE` | The name of the database that the Currency Converter will use | currency_converter |
-| `DB_CURRENCY_API_USER` | The username to connect to the database | root |
-| `DB_CURRENCY_API_PASSWORD` | The password of the user defined in the previous variable | 10203040 |
-| `EXCHANGE_API_KEY` | Your API key for accessing the exchange rate service | abc123def456 |
-| `JWT_CURRENCY_API_SECRET` | The secret key used to sign and verify the authenticity of JWT tokens. Should be a random and secret number. | 91723847 |
-
 ## 🚀 Usage
 
 To run the project, we have two options:
