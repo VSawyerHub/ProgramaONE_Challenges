@@ -8,22 +8,6 @@ The objective of this challenge was to provide a real-world development experien
 
 This project generates its own data through all the necessary `endpoints` to perform CRUD operations. It's worth mentioning that this API persists data in a `MySQL` database using the `Spring Data JPA` API from `Spring Boot`.
 
-## 📝 Endpoints
-
-### 🟢 Swagger
-
-The endpoints of this API are mapped with Swagger. To access this mapping, run the project and visit:
-
-```
-http://localhost:8080/swagger-ui/index.html#/
-```
-
-### 🐶 Bruno
-
-In addition to Swagger, in the project's root folder there is a folder called endpoints, which contains all the endpoints used to test the API.
-
-To use these files, install [`Bruno`](https://www.usebruno.com/) and import the collection of endpoints (previously mentioned folder) by clicking the `Open Collection` button, which can be found by clicking on the three dots on the left side of the screen.
-
 ## 📌 Dependencies
 
 For the proper functioning of the Book Catalog, it's necessary to install the dependencies below. Click on the hyperlink for each one to go to the respective download page.
