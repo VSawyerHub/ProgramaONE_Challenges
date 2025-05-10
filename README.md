@@ -8,22 +8,6 @@ The objective of this challenge was to provide a real-world development experien
 
 Unlike previous projects in the Oracle ONE program that consumed external APIs, this project not only connects to external currency exchange APIs but also implements a complete `CRUD` system for managing conversion history and user preferences.
 
-## 📝 End Points
-
-### 🟢 Swagger
-
-The API endpoints are documented with Swagger. To access this documentation, run the project and go to:
-
-```
-http://localhost:8080/swagger-ui/index.html#/
-```
-
-### 🐶 Bruno
-
-In addition to Swagger, in the root folder of the project there is a folder called 'endpoints', which contains all the endpoints used to test the API.
-
-To use these files, install [`Bruno`](https://www.usebruno.com/) and import the collection of endpoints (mentioned folder above) by clicking the `Open Collection` button, which can be found by clicking on the three dots on the left side of the screen.
-
 ## 📌 Dependencies
 
 For the proper functioning of the Currency Converter API, it is necessary to install the dependencies below. Click on the hyperlink for each one to go to the respective download page.
@@ -99,5 +83,4 @@ The project follows a standard Spring Boot application structure:
 - Spring Data JPA
 - MySQL
 - JWT Authentication
-- Swagger
 - Maven
