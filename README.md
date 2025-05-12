@@ -6,13 +6,13 @@ This is the Book Catalog, a project developed as part of the challenge proposed 
 
 The objective of this challenge was to provide a real-world development experience. Students were tasked with building a `REST API` that would serve as the `backend` for a book catalog application, implementing a complete `CRUD` functionality.
 
+The project uses the external Gutendex API, which provides information from the Project Gutenberg book catalog, an online library of free e-books.
+
+The catalog allows the user to search for Project Gutenberg titles by interacting with the terminal, saving their books and authors in a local database.
+
 This project generates its own data through all the necessary `endpoints` to perform CRUD operations. It's worth mentioning that this API persists data in a `MySQL` database using the `Spring Data JPA` API from `Spring Boot`.
 
 ## 📌 Dependencies
-
-For the proper functioning of the Book Catalog, it's necessary to install the dependencies below. Click on the hyperlink for each one to go to the respective download page.
-- [`MySQL`](https://dev.mysql.com/downloads/installer/): Database used by Book Catalog
-- [`Maven`](https://maven.apache.org/install.html): Dependency manager used by Book Catalog
 
 ## ⚙️ Configuration
 
