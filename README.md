@@ -53,10 +53,3 @@ Then, simply use the other endpoints normally to perform the desired actions, pr
 
 ## ⚠️ Warnings
 1. This project was built and tested on JDK 17, so we recommend using it when executing the project.
-
-## 🌐 Repository Structure
-This project is part of a larger repository divided into three branches:
-- ONE branch: Contains this Book Catalog project developed with Spring
-- [Other branches contain different challenges from the Oracle ONE Program]
-
-Visit the complete repository at: [https://github.com/VSawyerHub/ProgramaONE_Challenges](https://github.com/VSawyerHub/ProgramaONE_Challenges/tree/3three)
