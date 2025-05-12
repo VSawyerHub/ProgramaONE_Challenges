@@ -4,11 +4,11 @@ This is the Forum Hub, a project from the second challenge proposed in the `Java
 ## 💡Objective
 The objective of this challenge was to provide real experience in the world of development. The students were asked to build a `Rest API`, which would be the `backend` of a forum performing a `CRUD`.
 
-In the [`last project`](https://github.com/gPagio/bootcamp-oracle-alura-challenge-literalura) built by Oracle One, the data came from the Gutendex API. The current project generates its own data, since it has all the `endpoints` necessary to perform a CRUD. It is worth mentioning that this API persists the data in a `MySQL` database through the `Spring Boot` API called `Spring Data JPA`.
+In the [`last project`](https://github.com/gPagio/bootcamp-oracle-alura-challenge-literalura) built by Oracle One, the data came from the Gutendex API. The current project generates its own data, since it has all the `endpoints` necessary to perform a CRUD. It is worth mentioning that this API persists the data in a `PostgreSQL` database through the `Spring Boot` API called `Spring Data JPA`.
 
 ## 📌 Dependencies
 For the Hub Forum to work correctly, you need to install the dependencies below. Click on the hyperlink in each one to go to the respective downloads page.
-- [`MySQL`](https://dev.mysql.com/downloads/installer/): Database used by the Hub Forum
+- [`PostgreSQL`](https://www.postgresql.org/download/): Database used by the Hub Forum
 - [`Maven`](https://maven.apache.org/install.html): Dependency manager used by the Hub Forum
 
 ## 🚀 Usage
