@@ -40,7 +40,6 @@ mvn spring-boot:run
 - Historical exchange rates
 - Conversion history tracking
 - User preference management
-- Secure authentication with JWT
 
 ## ⚠️ Notes
 
