@@ -1,3 +1,11 @@
+## 🌐 Repository Structure
+> [!IMPORTANT]
+> This project is part of a larger repository divided into three branches:
+> - ONE branch: Contains this Book Catalog project developed with Spring
+> - [Other branches contain different challenges from the Oracle ONE Program]
+
+<br>
+
 # 💱 Currency Converter API - Oracle ONE
 
 This is the Currency Converter API, a project developed as part of the challenge proposed in the `Java and Spring Framework T6 - ONE` training, which belongs to the Oracle ONE program curriculum.
