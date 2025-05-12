@@ -33,12 +33,6 @@ Navigate to the project folder in your terminal and execute the command below:
 ```
 mvn spring-boot:run
 ```
-> [!NOTE]
-> If you encounter problems with Maven when running the Currency Converter, install version `3.9.5`, which was used in the project construction.
-
-After running the program, send a request to the `/login` endpoint, providing email and password in a `JSON` (these must be previously registered in the database in the `Users` table, with the password encrypted by BCrypt), to get the `JWT Token`.
-
-Then, you can use the other endpoints normally to perform the desired actions, providing the JWT Token for authentication. It's worth mentioning that the JWT Token has a maximum duration of `two hours`, so every two hours it is necessary to obtain a new JWT Token.
 
 ## 🔄 Features
 
@@ -65,8 +59,3 @@ The project follows a standard Spring Boot application structure:
 
 - Java 17
 - Spring Boot
-- Spring Security
-- Spring Data JPA
-- MySQL
-- JWT Authentication
-- Maven
