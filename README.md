@@ -2,7 +2,10 @@
 This is the Forum Hub, a project from the second challenge proposed in the `Java and Spring Framework T6 - ONE` training, which is part of the Oracle ONE program.
 
 ## 💡Objective
-The objective of this challenge was to provide real experience in the world of development. The students were asked to build a `Rest API`, which would be the `backend` of a forum performing a `CRUD`.
+
+The ForuHub project is a Rest API built in Java and Spring with authentication and authorization control using Spring Security and unit tests using JUnit and Mockito.
+
+ForuHub allows the user to access, register, edit, and delete topic records by saving the data to a local Postgres database.
 
 In the [`last project`](https://github.com/gPagio/bootcamp-oracle-alura-challenge-literalura) built by Oracle One, the data came from the Gutendex API. The current project generates its own data, since it has all the `endpoints` necessary to perform a CRUD. It is worth mentioning that this API persists the data in a `PostgreSQL` database through the `Spring Boot` API called `Spring Data JPA`.
 
@@ -27,6 +30,15 @@ Enter the project folder through the terminal and run the command below:
 ```
 mvn spring-boot:run
 ```
+
+## 🔄 Features
+
+- Listing saved topics.
+- Details of saved topics.
+- Topic register.
+- Editing in the topic register.
+- Logical deletion of the topic record.
+
 > [!NOTE]
 > If you encounter problems with Maven when running the Hub Forum, install version `3.9.5`, which was used to build the project.
 
@@ -36,3 +48,16 @@ Then, simply use the other endpoints as normal to perform the desired actions, p
 
 ## ⚠️ Warnings
 1. This project was built and tested on JDK 17, so we recommend using it when running it.
+
+## 👨‍💻 Technologies Used
+
+- Java 17
+- Spring Boot
+- Spring Security
+- Jpa
+- Postgresql
+- Lombok
+- Maven
+- Unit tests (JUnit, Mockito)
+
+
